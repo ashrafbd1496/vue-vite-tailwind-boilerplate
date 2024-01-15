@@ -1,0 +1,13 @@
+Vue Vite Tailwind BoilerPlate Build Process
+video - https://www.youtube.com/watch?v=SFvgJf5cFAQ&list=PLR8vUZDE6IeO_xCvdbfT1rtL4r4jc8ixm&index=35 
+
+	1. npm create vite@latest . -- --template vue
+	2. npm i -D tailwindcss postcss autoprefixer
+	3. npx tailwindcss init -p
+	4. put the code inside content of tailwind config js file
+		
+		"./index.html",
+    		"./src/**/*.{vue,js,jsx}"
+    	
+    	5.npm run dev
+    	6. 

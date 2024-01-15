@@ -14,6 +14,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
     4. put the code inside content of tailwind config js file
 
     	"./index.html",
-    		"./src/**/*.{vue,js,jsx}"
+    	"./src/**/*.{vue,js,jsx}"
 
-    	5.npm run dev
+    5.npm run dev
