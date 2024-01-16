@@ -18,7 +18,12 @@ This template should help get you started developing with Vue 3 in Vite. The tem
     	"./src/**/*.{vue,js,jsx}"
 
     5.npm run dev
+<<<<<<< HEAD
 =======
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 # vue-vite-tailwind-boilerplate
 >>>>>>> parent of dff2134... first commit
+=======
+# vuejs-real-projects-course
+# vuejs-real-projects-course
+>>>>>>> 49f784278c95aadf224e8494a44ba4772ae66ddc
